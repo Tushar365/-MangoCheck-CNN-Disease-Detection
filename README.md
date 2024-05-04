@@ -1,4 +1,6 @@
-![Project Demo video](https://youtu.be/2doXGQKbA1I)
+**Project Demo Video:**
+
+[Watch the video demonstration](https://youtu.be/2doXGQKbA1I?si=UKmR_Y27c5m7rlJN)
 
 Mango Disease Prediction CNN Deep Learning Project using Streamlit
 
