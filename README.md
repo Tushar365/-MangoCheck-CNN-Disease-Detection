@@ -1,4 +1,6 @@
-Title: Mango Disease Prediction CNN Deep Learning Project using Streamlit
+![Project Demo video](https://youtu.be/2doXGQKbA1I)
+
+Mango Disease Prediction CNN Deep Learning Project using Streamlit
 
 Description:
 
